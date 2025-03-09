@@ -1,0 +1,9 @@
+opencv-python
+numpy
+stegano
+deepface
+sqlite3
+hashlib
+flask
+requests
+pillow
